@@ -196,3 +196,10 @@ _doc/video/
 - 增加批量文件测试
 - 抽离统一的媒体文件处理服务层
 - 替换为 AES 等正式加密方案
+
+## 截图
+<img width="440" height="890" alt="iShot Pro 2026-04-02 14 23 45" src="https://github.com/user-attachments/assets/809e7ff4-f3b6-4041-8a35-bad2b1dfbf04" />
+
+<img width="440" height="890" alt="iShot Pro 2026-04-02 14 29 31" src="https://github.com/user-attachments/assets/2ba8eda2-5a42-4829-9cdb-a5262db89c09" />
+
+<img width="440" height="890" alt="iShot Pro 2026-04-02 14 30 04" src="https://github.com/user-attachments/assets/da098d9d-3e37-4901-8ad3-811c6e8ff205" />
